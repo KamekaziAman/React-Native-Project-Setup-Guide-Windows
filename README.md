@@ -62,7 +62,7 @@ Configure Local Properties android/local.properties
 
 ```bash
 sdk.dir=C:\\Users\\kamekazi\\AppData\\Local\\Android\\Sdk
-ndk.dir=C:\\Users\\kamekazi\\AppData\\Local\\Android\\Sdk\\ndk\\27.2.12479018
+ndk.dir=C:\\Users\\kamekazi\\AppData\\Local\\Android\\Sdk\\ndk\\27.1.12297006
 ```
 
 .\gradlew clean
