@@ -65,7 +65,7 @@ sdk.dir=C:\\Users\\kamekazi\\AppData\\Local\\Android\\Sdk
 ndk.dir=C:\\Users\\kamekazi\\AppData\\Local\\Android\\Sdk\\ndk\\27.2.12479018
 ```
 
-gradlew clean 
+.\gradlew clean
 
 ```bash
 npx react-native run-android
